@@ -13,13 +13,14 @@ Available techniques:
  - distance
  - *bonds*
 
-A link to `Google <www.google.com>`_.
+A link to `Google <https://www.google.com>`_.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    something
+   api
 
 Indices and tables
 ==================
